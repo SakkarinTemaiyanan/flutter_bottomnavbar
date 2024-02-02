@@ -19,7 +19,7 @@ class _BottomNavBarScreenState extends State<BottomNavBarScreen> {
     PictureScreen(),
     //const Icon(Icons.add_a_photo_outlined),
     ProfileScreen(),
-    const Icon(Icons.person),
+    //const Icon(Icons.person),
   ];
 
 
