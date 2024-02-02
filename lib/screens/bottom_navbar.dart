@@ -1,4 +1,4 @@
-//import 'pacrkage:bottom_navbar/constant/constant.dart';
+import 'package:bottom_navbar/constant/constant.dart';
 import 'package:bottom_navbar/screens/picture_screen.dart';
 import 'package:bottom_navbar/screens/profile_screen.dart';
 import 'package:flutter/material.dart';
